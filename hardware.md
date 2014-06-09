@@ -11,6 +11,7 @@ Known-working Hardware
 ### Motherboards
 
 - [ASRock H87M-ITX](http://www.newegg.com/Product/Product.aspx?Item=N82E16813157386)
+- [Asus H87i Plus](http://www.amazon.com/gp/product/B00CXIY468/ref=oh_details_o04_s00_i00?ie=UTF8&psc=1)
 
 ### Wireless and Ethernet Chipsets
 
