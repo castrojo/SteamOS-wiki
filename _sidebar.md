@@ -8,6 +8,8 @@
 
 ### Customizing
 
+- [[Adding XBMC | XBMC]]
+
 ### Other Resources
 
 - [SteamOS bugtracker](https://github.com/ValveSoftware/SteamOS/issues)
